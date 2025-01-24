@@ -1,4 +1,7 @@
-﻿The Project Gutenberg eBook of Travels Through North and South Carolina, Georgia, East and West Florida, by William Bartram
+﻿The Project Gutenberg EBook of TRAVELS THROUGH NORTH AND SOUTH CAROLINA,
+GEORGIA, EAST AND WEST FLORIDA, THE CHEROKEE COUNTRY, THE EXTENSIVE
+TERRITORIES OF THE MUSCOGULGES, OR CREEK CONFEDERACY, AND THE COUNTRY OF
+THE CHACTAWS., by William Bartram
 
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -6,25 +9,30 @@ whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg License included with this eBook or online at
 www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
-using this eBook.
+using this ebook.
 
-Title: Travels Through North and South Carolina, Georgia, East and West Florida
+Title: TRAVELS THROUGH NORTH AND SOUTH CAROLINA, GEORGIA, EAST AND WEST
+       FLORIDA, THE CHEROKEE COUNTRY, THE EXTENSIVE TERRITORIES OF THE
+       MUSCOGULGES, OR CREEK CONFEDERACY, AND THE COUNTRY OF THE CHACTAWS.
+
+Subtitle: CONTAINING AN ACCOUNT OF THE SOIL AND NATURAL PRODUCTIONS OF
+          THOSE REGIONS, TOGETHER WITH OBSERVATIONS ON THE MANNERS OF THE
+          INDIANS. EMBELLISHED WITH COPPER-PLATES.
 
 Author: William Bartram
 
-Release Date: November 08, 2020 [eBook #63678]
-[Most recently updated: August 15, 2021]
+Release Date: November 08, 2020 [EBook #63678]
 
 Language: English
 
 Character set encoding: UTF-8
 
-
-*** START OF THE PROJECT GUTENBERG EBOOK TRAVELS THROUGH NORTH AND SOUTH CAROLINA, GEORGIA, EAST AND WEST FLORIDA ***
+*** START OF THE PROJECT GUTENBERG EBOOK TRAVELS THROUGH NORTH AND SOUTH
+CAROLINA, GEORGIA, EAST AND WEST FLORIDA, THE CHEROKEE COUNTRY, THE
+EXTENSIVE TERRITORIES OF THE MUSCOGULGES, OR CREEK CONFEDERACY, AND THE
+COUNTRY OF THE CHACTAWS. ***
 
 [Illustration]
-
-
 
 
 TRAVELS
@@ -496,7 +504,7 @@ various uses of vegetables.
 
 For instance, Triticum Cereale, which affords us bread, and is termed,
 by way of eminence, the staff of life, the most pleasant and nourishing
-food to all terrestrial animals. Vitis vinifera, whose exhilarating
+food to all terrestrial animals. Vitis vinifera, whose exhilirating
 juice is said to cheer the hearts of gods and men. Oryza, Zea, Pyrus,
 Pyrus malus, Prunus, Pr. cerasus, Ficus, Nectarin, Apricot, Cydonia.
 Next follow the illustrious families of forest-trees, as the Magnolia
@@ -635,7 +643,7 @@ oviparous animals, as the eggs of birds, snakes, or butterflies, spawn
 of fish, &c.? Let us begin at the source of terrestrial existence. Are
 not the seed of vegetables, and the eggs of oviparous animals
 fecundated, or influenced with the vivific principle of life, through
-the approximation and intimacy of the sexes? and immediately after the
+the aproximation and intimacy of the sexes? and immediately after the
 eggs and seeds are hatched, does not the young larva and infant plant,
 by heat and moisture, rise into existence, increase, and in due time
 arrive to a state of perfect maturity? The physiologists agree in
@@ -700,7 +708,7 @@ immortal?
 
 I am sensible that the general opinion of philosophers has
 distinguished the moral system of the brute creature from that of
-mankind, by an epithet which implies a mere mechanical impulse, which
+mankind, by an epithet wich implies a mere mechanical impulse, which
 leads and impels them to necessary actions, without any premeditated
 design or contrivance; this we term instinct, which faculty we suppose
 to be inferior to reason in man.
@@ -744,7 +752,7 @@ upon the body of the dam.
 
 If we bestow but a very little attention to the economy of the animal
 creation, we shall find manifest examples of premeditation,
-perseverance, resolution, and consummate artifice, in order to effect
+perseverance, resolution, and consumate artifice, in order to effect
 their purposes. The next morning, after the slaughter of the bears
 whilst my companions were striking our tent, and preparing to
 re-embark, I resolved to make a little botanical excursion alone:
@@ -803,7 +811,7 @@ him on predatory attempts against the insect tribes. I was therefore
 determined to watch his proceedings, I soon noticed that the object of
 his wishes was a large fat bomble bee (apis bombylicus), that was
 visiting the flowers, and piercing their nectariferous tubes; this
-cunning intrepid hunter conducted his subtil approaches with the
+cunning intripid hunter conducted his subtil approaches with the
 circumspection and perseverance of a Siminole when hunting a deer,
 advancing with slow steps obliquely, or under cover of dense foliage,
 and behind the limbs, and when the bee was engaged in probing a flower,
@@ -829,7 +837,7 @@ night, became himself the delicious evening repast of a bird or lizard.
 Birds are in general social and benevolent creatures; intelligent,
 ingenious, volatile, active beings; and this order of animal creation
 consists of various nations, bands or tribes, as may be observed from
-their different structure, manners and languages, or voice, as each
+their different structure, manners and laguages, or voice, as each
 nation, though subdivided into many different tribes, retaining its
 general form or structure, a similarity of customs, and a sort of
 dialect or language, particular to that nation or genus from which
@@ -901,7 +909,7 @@ judicious plan for their civilization and union with us.
 But I presume not to dictate in these high concerns of government, and
 I am fully convinced that such important matters are far above my
 ability; the duty and respect we owe to religion and rectitude, the
-most acceptable incense we can offer to the Almighty, as an atonement
+most acceptable incense we can offer to the Almighty, as an attonement
 for our negligence in the care of the present and future wellbeing of
 our Indian brethren, induces me to mention this matter, though perhaps
 of greater concernment than we generally are aware.
@@ -1483,7 +1491,7 @@ in my power. Live; the Great Spirit forbids me to touch thy life; go to
 thy brethren, tell them thou sawest an Indian in the forests, who knew
 how to be humane and compassionate.” In fine, we shook hands, and
 parted in a friendly manner, in the midst of a dreary wilderness; and
-he informed me of the course and distance to the trading-house, where I
+he informed me of the course and distance to the tradinghouse, where I
 found he had been extremely ill-treated the day before.
 
 I now sat forward again, and after eight or ten miles riding, arrived
@@ -1592,7 +1600,7 @@ alternately appearing and disappearing. They resolved, at length, to
 leave the delusive pursuit, and to return; which, after a number of
 inexpressible difficulties, they effected. When they reported their
 adventures to their countrymen, their young warriors were enflamed with
-an irresistible desire to invade, and make a conquest of, so charming a
+an irresistable desire to invade, and make a conquest of, so charming a
 country; but all their attempts have hitherto proved abortive, never
 having been able again to find that enchanting spot, nor even any road
 or pathway to it; yet they say that they frequently meet with certain
@@ -1794,7 +1802,7 @@ brought to listen to reason and amicable terms; however, at length, the
 cool and deliberate counsels of the ancient venerable chiefs, enforced
 by liberal presents of suitable goods, were too powerful inducements
 for them any longer to resist, and finally prevailed. The treaty
-concluded in unanimity, peace, and good order; and the honorable
+concluded in unanimity, pace, and good order; and the honorable
 superintendant, not forgetting his promise to me, at the conclusion,
 mentioned my business, and recommended me to the protection of the
 Indian chiefs and warriors. The presents being distributed among the
@@ -15743,30 +15751,34 @@ Zamia pumila, 160.
 
 
 
+*** END OF THE PROJECT GUTENBERG EBOOK TRAVELS THROUGH NORTH AND SOUTH
+CAROLINA, GEORGIA, EAST AND WEST FLORIDA, THE CHEROKEE COUNTRY, THE
+EXTENSIVE TERRITORIES OF THE MUSCOGULGES, OR CREEK CONFEDERACY, AND THE
+COUNTRY OF THE CHACTAWS. ***
 
-*** END OF THE PROJECT GUTENBERG EBOOK TRAVELS THROUGH NORTH AND SOUTH CAROLINA, GEORGIA, EAST AND WEST FLORIDA ***
+***** This file should be named 63678-0.txt or 63678-0.zip *****
+This and all associated files of various formats will be found in:
+    http://www.gutenberg.org/6/3/6/7/63678/
 
 Updated editions will replace the previous one--the old editions will
 be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the
-United States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
 Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away--you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
 START: FULL LICENSE
 
@@ -15830,7 +15842,7 @@ agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
 other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country other than the United States.
+country outside the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
@@ -15847,7 +15859,7 @@ performed, viewed, copied or distributed:
   under the terms of the Project Gutenberg License included with this
   eBook or online at www.gutenberg.org. If you are not located in the
   United States, you will have to check the laws of the country where
-  you are located before using this eBook.
+  you are located before using this ebook.
 
 1.E.2. If an individual Project Gutenberg-tm electronic work is
 derived from texts not protected by U.S. copyright law (does not
@@ -15883,7 +15895,7 @@ compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
 other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm website
+version posted on the official Project Gutenberg-tm web site
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
@@ -15896,7 +15908,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
-provided that:
+provided that
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
@@ -15930,9 +15942,9 @@ provided that:
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg-tm trademark. Contact the Foundation as set
-forth in Section 3 below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
@@ -16017,12 +16029,12 @@ and permanent future for Project Gutenberg-tm and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
 Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
+www.gutenberg.org 
 
-Section 3. Information about the Project Gutenberg Literary
+Section 3. Information about the Project Gutenberg Literary 
 Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non-profit
+The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -16030,18 +16042,27 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation's website
-and official page at www.gutenberg.org/contact
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without
-widespread public support and donations to carry out its mission of
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
+freely distributed in machine readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -16064,12 +16085,12 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg web pages for current donation
+Please check the Project Gutenberg Web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
@@ -16083,12 +16104,11 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our website which has the main PG search
+Most people start at our Web site which has the main PG search
 facility: www.gutenberg.org
 
-This website includes information about Project Gutenberg-tm,
+This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
 
